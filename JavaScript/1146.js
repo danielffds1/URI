@@ -1,6 +1,7 @@
 var input = require('fs').readFileSync('stdin', 'utf8');
 
 var lines = input.split('\n');
+
 let entrada, indice;
 let i = 0;
 let resultado = "";
